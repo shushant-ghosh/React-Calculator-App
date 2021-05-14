@@ -1,6 +1,5 @@
 import React, { Component } from 'react'
 import Display from './Display'
-import Foot from './Foot'
 import Nums from './Nums'
 import Result from './Result'
 
