@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/React-Calculator-App/static/css/main.628b6151.chunk.css",
-    "main.js": "/React-Calculator-App/static/js/main.81f301f3.chunk.js",
-    "main.js.map": "/React-Calculator-App/static/js/main.81f301f3.chunk.js.map",
+    "main.js": "/React-Calculator-App/static/js/main.122d4d3b.chunk.js",
+    "main.js.map": "/React-Calculator-App/static/js/main.122d4d3b.chunk.js.map",
     "runtime-main.js": "/React-Calculator-App/static/js/runtime-main.ba5ebc97.js",
     "runtime-main.js.map": "/React-Calculator-App/static/js/runtime-main.ba5ebc97.js.map",
-    "static/js/2.19ef6e18.chunk.js": "/React-Calculator-App/static/js/2.19ef6e18.chunk.js",
-    "static/js/2.19ef6e18.chunk.js.map": "/React-Calculator-App/static/js/2.19ef6e18.chunk.js.map",
+    "static/js/2.6c570220.chunk.js": "/React-Calculator-App/static/js/2.6c570220.chunk.js",
+    "static/js/2.6c570220.chunk.js.map": "/React-Calculator-App/static/js/2.6c570220.chunk.js.map",
     "static/js/3.6c56e603.chunk.js": "/React-Calculator-App/static/js/3.6c56e603.chunk.js",
     "static/js/3.6c56e603.chunk.js.map": "/React-Calculator-App/static/js/3.6c56e603.chunk.js.map",
     "index.html": "/React-Calculator-App/index.html",
     "static/css/main.628b6151.chunk.css.map": "/React-Calculator-App/static/css/main.628b6151.chunk.css.map",
-    "static/js/2.19ef6e18.chunk.js.LICENSE.txt": "/React-Calculator-App/static/js/2.19ef6e18.chunk.js.LICENSE.txt",
+    "static/js/2.6c570220.chunk.js.LICENSE.txt": "/React-Calculator-App/static/js/2.6c570220.chunk.js.LICENSE.txt",
     "static/media/logo.6ce24c58.svg": "/React-Calculator-App/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ba5ebc97.js",
-    "static/js/2.19ef6e18.chunk.js",
+    "static/js/2.6c570220.chunk.js",
     "static/css/main.628b6151.chunk.css",
-    "static/js/main.81f301f3.chunk.js"
+    "static/js/main.122d4d3b.chunk.js"
   ]
 }
