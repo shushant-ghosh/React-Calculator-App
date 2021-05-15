@@ -24,8 +24,7 @@ class Calc extends Component {
             <div>
                 <Result result={result} decimals={decimals}/>
                 <Display display={display}/>
-                <Nums setResult={this.setResult}/>
-                <Foot />                
+                <Nums setResult={this.setResult}/>              
             </div>
         )
     }
